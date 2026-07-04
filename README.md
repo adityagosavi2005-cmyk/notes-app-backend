@@ -156,6 +156,37 @@ node server.js
 
 ---
 
+## API Screenshots
+
+### Login
+
+![login](screenshots/login.png)
+
+---
+
+### Create Note
+
+![Create Note](screenshots/note-created.png)
+
+---
+
+### Get Notes
+
+![Get Notes](screenshots/get-notes.png)
+
+
+### Update Note
+
+![Update Note](screenshots/update-note.png)
+
+---
+
+### Profile
+
+![Profile](screenshots/profile.png)
+
+---
+
 ## Author
 
 **Aditya Gosavi**
